@@ -34,7 +34,7 @@ To use this template for your project, simply follow these steps:
 
 ## Usage
 
-1. **Modify Configuration**: Update `config.py` with your project-specific settings.
+1. **Modify Configuration**: Update `setup.py` with your project-specific settings.
 2. **Add Your Code**: Begin coding your project by adding modules, functions, and classes.
 3. **Test Your Code**: Utilize the testing setup to ensure your code works as expected.
 4. **Document Your Project**: Keep the documentation up to date to aid understanding and future maintenance.
