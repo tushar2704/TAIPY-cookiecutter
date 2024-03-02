@@ -1,6 +1,6 @@
-# TAIPY-Template
+# TAIPY Cookiecutter
 
-Welcome to the Taipy Template repository! This template provides a solid foundation for your projects, incorporating best practices and a streamlined structure. Whether you're a beginner or an experienced developer, this template will help you kickstart your projects in a Taipy manner.
+Welcome to the Taipy Cookiecutter Template repository! This template provides a solid foundation for your projects, incorporating best practices and a streamlined structure. Whether you're a beginner or an experienced developer, this template will help you kickstart your projects in a Taipy manner.
 
 
 ## Getting Started
